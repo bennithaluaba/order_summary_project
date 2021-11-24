@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # order_summary_project
 =======
+=======
+>>>>>>> 091b323217bab4c44741083e7ab380be1721c332
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
@@ -92,4 +95,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+<<<<<<< HEAD
 >>>>>>> 091b323 (Added the readme file)
+=======
+>>>>>>> 091b323217bab4c44741083e7ab380be1721c332
