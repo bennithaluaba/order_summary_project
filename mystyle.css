@@ -1,5 +1,29 @@
 body
 {
     background-image: 
-        url("C:\Users\mbala\Documents\Order_Summary_Project\order-summary-component-main\images\pattern-background-desktop.svg");
+        url("C:/Users/mbala/Documents/Order_Summary_Project/order-summary-component-main/images/pattern-background-desktop.svg");
+    font-family: "Red Hat Display", sans-serif;
+    background-repeat: no-repeat;
 }
+
+.order_summary_container
+{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    box-sizing: border-box;
+    margin-top: 72px;
+    border-style: hidden;
+    border-radius: 20px;
+    width:448px;
+    background-color: aliceblue;
+    
+}
+.illust_hero
+{
+    width: 444px;
+    height: 190px;
+    /*border: 2px solid black;*/
+    border-radius: 20px 20px 0px 0px;
+}
+
