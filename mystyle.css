@@ -23,7 +23,70 @@ body
 {
     width: 309px;
     height: 148px;
-    /*border: 2px solid black;*/
     border-radius: 20px 20px 0px 0px;
 }
 
+.main-heading
+{
+    text-align: center;
+    font-weight: 900;
+    font-size: 23px;
+    color: darkblue;
+}
+
+.main-paragraph
+{
+    font-size: 16px;
+    text-align: center;
+    margin: 5px;
+}
+
+.plan
+{
+    border-radius: 10px;
+    /*text-align: center;*/
+    padding: 20px;
+    background-color: aquamarine;
+    margin: 26px;
+}
+
+img.music_icon
+{
+    float: left;
+    padding: 5px;
+    height: 30px;
+    vertical-align: middle;
+}
+.payment_plan
+{
+    font-size: smaller;
+}
+.payment
+{
+    width: 146px;
+    /*display: inline-block;*/
+    text-align: justify;
+}
+.change_url 
+{
+    width: 94px;    
+    vertical-align: middle;
+    font-size: smaller;
+    float: right;
+    position: relative;
+    top: -37px; left: 44px;
+
+}
+.proceed_to_payment, .cancel_order
+{
+    text-align: center;
+    margin: 26px;
+}
+
+.proceed_to_payment:hover,.cancel_order:hover
+{
+    border-radius: 10px;
+    background-color: blue;
+    padding: 13px;
+    margin: 26px;
+}
