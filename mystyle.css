@@ -93,6 +93,8 @@ img.music_icon
     padding: 13px;
     text-decoration: none;
     font-size: 16px;
+    font-weight: 900;
+    color: hsl(224, 23%, 55%);
 }
 .CancelO
 {
@@ -102,6 +104,8 @@ img.music_icon
     padding: 13px;
     text-decoration: none;
     font-size: 16px;
+    font-weight: 900;
+    color: hsl(224, 23%, 55%);
 }
 
 .ptp:hover
@@ -109,12 +113,15 @@ img.music_icon
     border-radius: 10px;
     background-color: hsl(245, 75%, 52%);
     width: 332px;
+    color: white;
     cursor: pointer;
+    box-shadow: 5px 10px 2px #888888;
 }
 .CancelO:hover
 {
     border-radius: 10px;
     background-color: hsl(245, 75%, 52%);
     width: 332px;
+    color: white;
     cursor: pointer;
 }
