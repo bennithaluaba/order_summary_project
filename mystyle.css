@@ -109,10 +109,12 @@ img.music_icon
     border-radius: 10px;
     background-color: hsl(245, 75%, 52%);
     width: 332px;
+    cursor: pointer;
 }
 .CancelO:hover
 {
     border-radius: 10px;
     background-color: hsl(245, 75%, 52%);
     width: 332px;
+    cursor: pointer;
 }
