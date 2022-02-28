@@ -81,16 +81,38 @@ img.music_icon
     top: -37px; left: 33px;
 
 }
-.proceed_to_payment, .cancel_order
+.cancel_order,.proceed_to_payment
 {
     text-align: center;
-    margin: 26px;
+}
+.ptp
+{
+    text-align: center;
+    background: transparent;
+    border: none;
+    padding: 13px;
+    text-decoration: none;
+    font-size: 16px;
+}
+.CancelO
+{
+    text-align: center;
+    background: transparent;
+    border: none;
+    padding: 13px;
+    text-decoration: none;
+    font-size: 16px;
 }
 
-.proceed_to_payment:hover,.cancel_order:hover
+.ptp:hover
 {
     border-radius: 10px;
-    background-color: blue;
-    padding: 13px;
-    margin: 26px;
+    background-color: hsl(245, 75%, 52%);
+    width: 332px;
+}
+.CancelO:hover
+{
+    border-radius: 10px;
+    background-color: hsl(245, 75%, 52%);
+    width: 332px;
 }
