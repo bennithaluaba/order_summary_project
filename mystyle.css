@@ -115,7 +115,7 @@ img.music_icon
     width: 332px;
     color: white;
     cursor: pointer;
-    box-shadow: 5px 10px 2px #888888;
+    box-shadow: 10px 10px 5px #888888;
 }
 .CancelO:hover
 {
@@ -124,4 +124,5 @@ img.music_icon
     width: 332px;
     color: white;
     cursor: pointer;
+    box-shadow: 10px 10px 5px #888888;
 }
